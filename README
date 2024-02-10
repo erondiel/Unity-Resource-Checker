@@ -37,3 +37,5 @@ Meshes
 - Click the 'X GO' to select all game objects in the scene that use this mesh
 
 Its probably got a bunch of bugs and weird issues - feel free to help improve, fix up!
+
+UPDATE: Added ASTC read capability
